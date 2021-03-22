@@ -36,7 +36,7 @@ let tectonicPlate = new L.LayerGroup();
 // 2. Add a reference to the tectonic plates group to the overlays object.
 let overlays = {
     "Earthquakes": allEarthquakes,
-    "Techtonic": tectonicPlate
+    "Tectonic": tectonicPlate
 };
 
 // Then we add a control to the map that will allow the user to change which
