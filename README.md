@@ -21,4 +21,13 @@
   <br>
   <img src="https://github.com/bedwardssmith/Mapping_Earthquakes_New/blob/main/Earthquake_Challenge/static/images/tectonic_plate.png" alt="tectonic plates">
   <br>
-  <h2>
+  <h2>Major Earthquakes Past 7 Days</h2>
+  <p>The major earthquakes overlay shows the mapping of majory earthquakes that have occurred in the past 7 days worlwide.  The size of the circles are relative
+    to the size of the earthquake and the color references the legend.  The size and location of the earthquake are displayed when the user clicks on a circle.</p>
+  <br>
+  <img src="https://github.com/bedwardssmith/Mapping_Earthquakes_New/blob/main/Earthquake_Challenge/static/images/major_earthquakes_past_7_days.png" alt="major earthquakes past 7 days">
+  <br>
+  <h2>Major Earthquakes Past 30 Days</h2>
+  <p>The final overlay reflects major earthquakes that have occurred in the past 30 days worldwide.  As with the 7 day overlay the size of the circles are relative tot he size of the earthquake and the color references the legend.  The size and location of the earthquake are displayed when the user clicks on a circle.</p>
+  <br>
+  <img src="https://github.com/bedwardssmith/Mapping_Earthquakes_New/blob/main/Earthquake_Challenge/static/images/major_earthquakes_past_30_days.png" alt="major earthquakes pas 30 days">
